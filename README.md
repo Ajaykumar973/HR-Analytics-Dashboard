@@ -1,16 +1,12 @@
 #  HR Analytics Dashboard
 
-An interactive **HR Analytics Dashboard** built using **Power BI** to analyze employee workforce data, monitor attrition trends, and provide actionable insights for HR decision-making.
-
-![HR Analytics Dashboard](dashboard.png)
+An interactive **HR Analytics Dashboard** built using **Microsoft Excel** to analyze employee workforce data, monitor attrition trends, and provide actionable insights for HR decision-making.
 
 ---
 
 ##  Overview
 
-This dashboard helps HR professionals and business leaders understand employee demographics, attrition patterns, workforce distribution, and job satisfaction through interactive visualizations.
-
-The report provides a comprehensive overview of key HR metrics including employee count, attrition rate, education, department, age group, and job role analysis.
+This HR Analytics Dashboard was created in **Microsoft Excel** using Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, and Excel formulas. It provides valuable insights into employee demographics, attrition patterns, workforce distribution, and job satisfaction through an interactive dashboard.
 
 ---
 
@@ -69,54 +65,55 @@ The report provides a comprehensive overview of key HR metrics including employe
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
-- Power BI Desktop
-- Power Query
-- DAX (Data Analysis Expressions)
-- Microsoft Excel / CSV Dataset
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Excel Formulas
 
 ---
 
+##  Key Insights
 
 ### Employee Distribution
 
-- Total Employees: **1470**
+- Total Employees: **1,470**
 - Male Employees: **882**
 - Female Employees: **588**
 
 ### Attrition Insights
 
 - Overall Attrition Rate: **16.12%**
-- Highest attrition is observed among employees aged **25–34 years**.
+- The **25–34 years** age group has the highest attrition.
 - Employees with a **Bachelor's Degree** have the highest attrition count.
-- **Laboratory Technicians** and **Sales Executives** show the highest employee turnover.
+- **Laboratory Technicians** and **Sales Executives** experience the highest employee turnover.
 
 ### Department Analysis
 
-- R&D contributes the highest percentage of attrition.
-- Sales follows as the second highest.
-- HR has the lowest attrition among departments.
+- **R&D** has the highest attrition.
+- **Sales** records the second-highest attrition.
+- **HR** has the lowest attrition among all departments.
 
 ---
 
 ##  Business Benefits
 
-This dashboard enables HR teams to:
+This dashboard helps HR teams to:
 
-- Monitor employee turnover
-- Identify high-risk employee groups
-- Improve employee retention strategies
-- Analyze workforce demographics
-- Support data-driven HR decisions
+- Monitor employee turnover trends.
+- Identify departments and job roles with high attrition.
+- Analyze workforce demographics.
+- Support data-driven HR decisions.
+- Improve employee retention strategies.
 
 ---
 
 ##  Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](HR_Dashboard.png)
 
 ---
 
@@ -124,14 +121,13 @@ This dashboard enables HR teams to:
 
 - Employee Performance Analysis
 - Salary & Compensation Dashboard
-- Promotion Analysis
 - Recruitment Analytics
-- Predictive Attrition using Machine Learning
-- Real-time Data Integration
+- Automated Data Refresh
+- Power Query Integration
+- Power BI Version
 
 ---
 
-##  Author
+## 👨‍💻 Author
 
-## Ajay kumar
-
+**Ajay Kumar**
